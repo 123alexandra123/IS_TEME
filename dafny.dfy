@@ -37,6 +37,6 @@ terexample.*/
 // In concluzie, schimbarea preconditiei in r-p>=1 va duce la situatii in care
 // postconditia nu va mai fi satisfacuta, deoarece q poate fi egal cu r.
 
-#ceva ceva
+//ceva ceva
 
 
